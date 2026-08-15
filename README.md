@@ -1,4 +1,4 @@
-#Desafio de Projeto do curso de `Formação Fundamentos de Inteligência Artificial` da DIO** 
+##Desafio de Projeto do curso de `Formação Fundamentos de Inteligência Artificial` da DIO** 
 # Explorando IAs Generativas na Prática `#LabDIONattyOrNot`
 
 > **Projeto desenvolvido `Formação Fundamentos de Inteligência Artificial` da DIO**  
