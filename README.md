@@ -8,7 +8,7 @@
 ---
 
 ## 📒 Descrição
-Este projeto foi desenvolvido para explorar a aplicação prática de ferramentas de Inteligência Artificial Generativa na criação de conteúdos realistas,adqridas no curso de `Formação Fundamentos de Inteligência Artificial`.
+Este projeto foi desenvolvido para explorar a aplicação prática de ferramentas de Inteligência Artificial Generativa na criação de conteúdos realistas, adqridas no curso de `Formação Fundamentos de Inteligência Artificial`.
 
 ---
 
@@ -16,15 +16,15 @@ Este projeto foi desenvolvido para explorar a aplicação prática de ferramenta
 
 | Categoria | Ferramentas | Aplicação Prática |
 | :--- | :--- | :--- |
-| **LLMs / Text** | ChatGPT | Estruturação de conteúdo |
-| **Image Gen** | DALL-E | Geração de imagens|
+| **LLMs / Text** | ChatGPT | Estruturação de conteúdo de texto |
+| **Image Gen** | DALL-E | Geração da imagem para o projeto | 
 
 ---
 
 ## 🧐 Processo de Criação
 
 1. **Ideia e Conversa com a IA:** Comecei pensando no tema que queria abordar. Depois, abri o ChatGPT e fui conversando por texto e voz com a ferramenta, explicando o que eu precisava. Fui fazendo perguntas e pedindo para ele ajustar o texto até chegar em um resultado bem legal e fácil de entender.
-2. **Criação da Imagem:** Entrei na ferramenta de geração de imagens, usei a DALL-E e digitei uma frase simples descrevendo o que eu queria ver na ilustração. A IA gerou a imagem na hora com base no meu pedido.
+2. **Criação da Imagem:** Entrei na ferramenta de geração de imagens, usei a DALL-E e digitei uma frase simples descrevendo o que eu queria ver na ilustração. A IA gerou a imagem rapidamente de acordo com a minha descrição.
 3. **Organização e Revisão:** Copiei o texto gerado no ChatGPT, revisei tudo com cuidado no Google Docs para garantir que não tinha nada errado e salvei em formato PDF. Depois, juntei o PDF e a imagem para organizar tudo aqui no GitHub.
 
 ---
