@@ -31,8 +31,13 @@ Este projeto foi desenvolvido para explorar a aplicação prática de ferramenta
 
 ## 🚀 Resultados
 
-- 📄 **Conteúdo em PDF:** [Acessar o E-Book / Guia Gerado](./resultado.pdf)
-- 🖼️ **Arte Visual:** [Visualizar Imagem Gerada no DALL-E](./imagem.jpg)
+- 📄 **Conteúdo em PDF gerado do chatGPT com o seguinte tema: `Como a IA está mudando o mercado de programação`** [Acessar o E-Book / Guia Gerado](./resultado.pdf)
+
+### 🖼️ Arte Visual Gerada por IA
+
+![Arte Gerada no DALL-E](./imagem.jpg)
+
+> **Descrição da Imagem:** Esta ilustração foi gerada no DALL-E `para representar conceitualmente a união entre a inteligência artificial em forma de um robô interagindo com tecnologias que estamos acostumados como computadores por exemplo, mostrando um ambiente de criação como se fosse um desenvolvedor`.
 
 ---
 **Efeito de Rede** -->
